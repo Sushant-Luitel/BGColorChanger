@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+
+  text-align: center;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+h1 {
+  color: white;
+}
+.colorContainer {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+
+  justify-content: space-between;
+}
+.colorbutton {
+  background-color: rgb(212, 147, 27);
+  border: 1px solid black;
+}
